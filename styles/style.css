@@ -8,18 +8,6 @@ html {
   block-size: 100%;
 }
 
-html,
-body {
-  scrollbar-color: transparent;
-  scrollbar-width: none;
-}
-
-::-webkit-scrollbar {
-  background-color: transparent;
-  block-size: 1px;
-  inline-size: 0;
-}
-
 .page {
   margin: 0 auto;
   display: flex;
